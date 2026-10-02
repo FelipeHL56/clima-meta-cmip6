@@ -75,4 +75,4 @@ Un solo miembro por modelo y solo 5 modelos; mallas de ~100-200 km; ajuste de ti
 
 ## Licencia
 
-Código bajo licencia MIT (ver `LICENSE`; sustituye `[TU NOMBRE]`). Figuras y tablas: se sugiere CC BY 4.0, a confirmar por el autor.
+Código bajo licencia MIT (ver `LICENSE`). Figuras y tablas: se sugiere CC BY 4.0, a confirmar por el autor.
