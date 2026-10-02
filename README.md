@@ -69,9 +69,9 @@ Un solo miembro por modelo y solo 5 modelos; mallas de ~100-200 km; ajuste de ti
 - **CMIP6 y ERA5:** Copernicus Climate Change Service (C3S) / Climate Data Store. *Generated using Copernicus Climate Change Service information.*
   Ni la Comisión Europea ni ECMWF son responsables del uso de esta información.
 - **Modelos:** NorESM2-MM, MRI-ESM2-0, MPI-ESM1-2-LR, GFDL-ESM4 y ACCESS-CM2 (miembro r1i1p1f1).
-- **CHIRPS v2.0:** Climate Hazards Center, UC Santa Barbara. **IDEAM:** estaciones del Instituto de Hidrología, Meteorología y Estudios Ambientales de Colombia.
+- **CHIRPS v2.0:** Climate Hazards Center, UC Santa Barbara. **IDEAM:** estaciones del Instituto de Hidrología, Meteorología y Estudios Ambientales de Colombia, obtenidas de su plataforma de datos abiertos DHIME.
 - **ONI:** NOAA. **WRF:** simulaciones del NCAR Research Data Archive (dataset d616000).
-- Los CSV de `observaciones/` son promedios regionales mensuales derivados de esas fuentes; consulta sus términos de uso.
+- Los CSV de `observaciones/` son promedios regionales mensuales derivados de esas fuentes. Los del IDEAM son promedios entre estaciones calculados por el autor a partir de datos abiertos de DHIME (no son las series originales).
 
 ## Licencia
 
