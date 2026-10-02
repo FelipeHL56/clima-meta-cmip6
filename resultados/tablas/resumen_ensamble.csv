@@ -1,0 +1,19 @@
+﻿variable,escenario,plazo,media_ensamble,minimo,maximo,desv_est
+Precipitación,SSP1-2.6 (bajas),Corto 2021-2040,0.7,-5.22,5.56,4.19
+Precipitación,SSP1-2.6 (bajas),Mediano 2041-2060,2.01,-4.39,13.07,7.26
+Precipitación,SSP1-2.6 (bajas),Largo 2081-2100,2.1,-6.07,13.37,7.35
+Precipitación,SSP2-4.5 (medias),Corto 2021-2040,0.31,-4.09,7.47,4.3
+Precipitación,SSP2-4.5 (medias),Mediano 2041-2060,0.03,-6.46,5.33,4.68
+Precipitación,SSP2-4.5 (medias),Largo 2081-2100,0.45,-4.99,14.14,7.95
+Precipitación,SSP5-8.5 (altas),Corto 2021-2040,-1.39,-5.4,6.35,4.82
+Precipitación,SSP5-8.5 (altas),Mediano 2041-2060,-4.03,-9.16,0.72,4.1
+Precipitación,SSP5-8.5 (altas),Largo 2081-2100,-7.67,-18.2,3.63,8.58
+Temperatura,SSP1-2.6 (bajas),Corto 2021-2040,0.73,0.44,1.17,0.28
+Temperatura,SSP1-2.6 (bajas),Mediano 2041-2060,1.06,0.81,1.73,0.38
+Temperatura,SSP1-2.6 (bajas),Largo 2081-2100,1.07,0.59,1.87,0.51
+Temperatura,SSP2-4.5 (medias),Corto 2021-2040,0.74,0.56,1.08,0.21
+Temperatura,SSP2-4.5 (medias),Mediano 2041-2060,1.39,1.0,2.14,0.44
+Temperatura,SSP2-4.5 (medias),Largo 2081-2100,2.13,1.58,3.19,0.61
+Temperatura,SSP5-8.5 (altas),Corto 2021-2040,0.89,0.58,1.17,0.21
+Temperatura,SSP5-8.5 (altas),Mediano 2041-2060,1.89,1.46,2.54,0.42
+Temperatura,SSP5-8.5 (altas),Largo 2081-2100,4.57,3.85,6.14,0.93

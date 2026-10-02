@@ -1,0 +1,10 @@
+﻿escenario,plazo,a) factor mensual,b) factor trimestral móvil,c) factor anual,d) solo modelo (sin ajuste)
+SSP1-2.6 (bajas),Corto 2021-2040,3.8,2.7,0.7,0.7
+SSP1-2.6 (bajas),Mediano 2041-2060,5.9,4.2,2.0,2.0
+SSP1-2.6 (bajas),Largo 2081-2100,5.3,3.7,2.1,2.1
+SSP2-4.5 (medias),Corto 2021-2040,3.8,1.8,0.3,0.3
+SSP2-4.5 (medias),Mediano 2041-2060,1.5,0.4,0.0,0.0
+SSP2-4.5 (medias),Largo 2081-2100,6.7,3.8,0.4,0.4
+SSP5-8.5 (altas),Corto 2021-2040,1.4,0.2,-1.4,-1.4
+SSP5-8.5 (altas),Mediano 2041-2060,-0.6,-2.3,-4.0,-4.0
+SSP5-8.5 (altas),Largo 2081-2100,-2.9,-5.0,-7.7,-7.7

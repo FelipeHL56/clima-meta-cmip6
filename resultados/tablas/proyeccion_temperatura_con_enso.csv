@@ -1,0 +1,10 @@
+﻿escenario,plazo,T_proyectada_neutro,T_en_año_El_Niño_fuerte,T_en_año_La_Niña,cambio_climatico_vs_1995_2014,efecto_ENSO_El_Niño_fuerte
+SSP1-2.6 (bajas),Corto 2021-2040,24.39,24.77,24.13,0.73,0.38
+SSP1-2.6 (bajas),Mediano 2041-2060,24.71,25.1,24.46,1.06,0.38
+SSP1-2.6 (bajas),Largo 2081-2100,24.72,25.1,24.47,1.07,0.38
+SSP2-4.5 (medias),Corto 2021-2040,24.4,24.78,24.14,0.74,0.38
+SSP2-4.5 (medias),Mediano 2041-2060,25.04,25.42,24.78,1.38,0.38
+SSP2-4.5 (medias),Largo 2081-2100,25.78,26.17,25.53,2.13,0.38
+SSP5-8.5 (altas),Corto 2021-2040,24.54,24.93,24.29,0.89,0.38
+SSP5-8.5 (altas),Mediano 2041-2060,25.55,25.93,25.29,1.89,0.38
+SSP5-8.5 (altas),Largo 2081-2100,28.23,28.61,27.97,4.57,0.38

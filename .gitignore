@@ -1,0 +1,13 @@
+# Credenciales: NUNCA subir
+.cdsapirc
+.env
+# Datos pesados / reproducibles
+*.nc
+*.zip
+datos/
+datos_crudos/
+observaciones/wrf/
+# Python y temporales
+__pycache__/
+*.pyc
+~$*.xlsx

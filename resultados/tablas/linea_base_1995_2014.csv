@@ -1,0 +1,11 @@
+﻿variable,modelo,linea_base_1995_2014
+Temperatura,access_cm2,23.192
+Temperatura,gfdl_esm4,23.213
+Temperatura,mpi_esm1_2_lr,23.448
+Temperatura,mri_esm2_0,23.894
+Temperatura,noresm2_mm,24.357
+Precipitación,access_cm2,6.669
+Precipitación,gfdl_esm4,5.359
+Precipitación,mpi_esm1_2_lr,4.187
+Precipitación,mri_esm2_0,6.593
+Precipitación,noresm2_mm,6.053

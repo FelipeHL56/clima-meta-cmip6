@@ -1,0 +1,6 @@
+﻿variable,rezago_meses,corr_detrend,efecto_por_1C_ONI,error_NW,t,tendencia_por_decada,unidad
+T ERA5 (°C),3,0.49,0.254,0.036,7.1,0.335,°C por °C de ONI
+T IDEAM aprox. (°C),3,0.59,0.294,0.031,9.5,0.195,°C por °C de ONI
+P ERA5 (%),1,-0.19,-6.313,1.694,-3.7,-5.69,% por °C de ONI
+P CHIRPS (%),1,-0.11,-4.318,1.945,-2.2,1.405,% por °C de ONI
+P IDEAM (%),1,-0.07,-3.815,2.844,-1.3,4.281,% por °C de ONI
